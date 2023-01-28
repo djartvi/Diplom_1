@@ -1,4 +1,4 @@
-# Diplom_1
+# Stellar_Unit_Tests
 Java 11 unit tests for web app https://stellarburgers.nomoreparties.site.
 
 The code for testing is forked from https://github.com/yandex-praktikum/QA-java-diplom-1.
